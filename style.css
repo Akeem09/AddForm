@@ -1,0 +1,56 @@
+body{
+    padding-top: 50px;
+    padding-left: 700px;
+    padding-right: 700px;
+    background-color: rgb(149, 160, 255);
+    background-image: url(bg.png);
+    background-size: cover;
+    font-family:'Inter';
+    line-height: 4ch;
+}
+
+label{
+    margin-left: 90px;
+    float: left;
+    font-size: 18px;
+}
+
+select{
+    width: 300px;
+    height: 28px;
+}
+
+h1{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    height: 45px;
+    border-radius: 20px;
+    text-align: center;
+    font-family:monospace;
+    font-size: 30px;
+}
+.rform{
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 18px;
+    border: black ;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+
+}
+
+input{
+    width: 300px;
+    height: 28px;
+}
+
+button{
+    line-height: 4ch;
+    height: 45px;
+    width: 130px;
+}
+
+.abc{
+    background-color:aqua;
+}
